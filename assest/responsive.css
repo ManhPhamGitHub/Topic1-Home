@@ -1,0 +1,28 @@
+@media only screen and (max-width: 900px) {
+    .menu-item{
+        flex-wrap: nowrap;
+        height: 100%;
+    }
+    .menu-itemCard{
+        width:97%;
+        padding:12px 8px;
+        margin:10px 0
+    }
+    .search-field {
+        left:20%
+    }
+    .search-field > input{
+        width: 200px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .search-field {
+        left:5%
+    }
+    .header-nav > ul > li{
+        margin-right: 10px;
+    }
+    .header-nav > ul > li >a {
+        font-size: 16px;
+    }
+  }
