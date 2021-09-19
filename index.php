@@ -20,11 +20,11 @@
                     <a href="#">Home</a>
                 </li>
                 <li>
-                    <a href="#">Categories</a>
+                    <a href="../categories/index.php">Categories</a>
 
                 </li>
                 <li>
-                    <a href="#">Foods</a>
+                    <a href="../food/index.php">Foods</a>
 
                 </li>
                 <li>
