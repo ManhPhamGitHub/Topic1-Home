@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
-    <link rel="stylesheet" href='./assest/css/style.css'>
+    <link rel="stylesheet" href="assest/css/style.css">
     <link rel="stylesheet" href="assest/css/responsive.css">
 </head>
 <body>
@@ -43,33 +43,7 @@
                 <button>Search</button>
             </div>
         </div>
-        <div class="explore">
-            <div class="explore-title">
-                <h2>Explore Foods</h2>
-            </div>
-            <div class="explore-item">
-                <div class="explore-itemCard">
-                    <img src="assest/img/2.jpg" alt="" width="100%" height="100%">
-                    <div class="explore-itemCard-title">
-                        <p>Pizza</p>
-                    </div>
-                </div>
-
-                <div class="explore-itemCard">
-                    <img src="assest/img/3.jpg" alt="" width="100%" height="100%">
-                    <div class="explore-itemCard-title">
-                        <p>Burger</p>
-                    </div>
-                </div>
-
-                <div class="explore-itemCard">
-                    <img src="assest/img/4.jpg" alt="" width="100%" height="100%">
-                    <div class="explore-itemCard-title">
-                        <p>Momos</p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
         <div class="menu">
             <div class="menu-heading">
                 <h3>
@@ -157,7 +131,7 @@
                         </h4>
                         <h5>19,99$</h5>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, magnam.</p>
-                        <button><a style="color:white" href="./order.php">Order now</a></button>
+                        <button>Order now</button>
                     </div>
                 </div>
 
